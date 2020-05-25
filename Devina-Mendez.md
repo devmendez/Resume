@@ -5,13 +5,11 @@ fullname: Devina Mendez
 jobtitle: Full Stack Web Developer
 
 location: Austin, TX
-blurb: I'm a healthcare professional turned web developer, a mother, wife, and lover of all things beautiful. "Loving Life and All That It Brings including the bad and especially the good!"
+blurb: "Loving Life and All That It Brings including the bad and especially the good!"
 
 # first item must be C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
 skills:
-  - C#
-  - .NET
   - JavaScript
   - SQL
   - HTML
@@ -21,6 +19,8 @@ skills:
   - Git/GitHub
   - WebPack
   - REST APIs
+  - React
+  - Redux
 
 github: https://github.com/devmendez
 linkedin: https://www.linkedin.com/in/devina-mendez
@@ -48,7 +48,7 @@ workexperience:
 
 
 education:
-  - name: Austin Coding Acaademy
+  - name: Austin Coding Academy
     dates: Aug 2019 - May 2020
     degree: Full Stack Web Development
 
